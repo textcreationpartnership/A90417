@@ -1,0 +1,477 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The land-tempest: or, A paper-pellet; or, much in a mouthfull; or, a long answer to a short question; containing an abstract, epitome, or effects of the woes of these wars. / By (W. P.) a plunder'd preacher in the county of Gloucester. Experta loquor.</title>
+            <author>W. P., plunder'd preacher in the county of Gloucester.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90417</idno>
+            <idno type="STC">Wing P130A</idno>
+            <idno type="STC">Thomason E52_13</idno>
+            <idno type="STC">ESTC R22978</idno>
+            <idno type="EEBO-CITATION">99871879</idno>
+            <idno type="PROQUEST">99871879</idno>
+            <idno type="VID">155200</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90417)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155200)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 9:E52[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The land-tempest: or, A paper-pellet; or, much in a mouthfull; or, a long answer to a short question; containing an abstract, epitome, or effects of the woes of these wars. / By (W. P.) a plunder'd preacher in the county of Gloucester. Experta loquor.</title>
+                  <author>W. P., plunder'd preacher in the county of Gloucester.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nicholas Vavosour, and are to be sold at his shop in the Inner Temple,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication from Wing; bookseller's name and address and publication date from colophon.</note>
+                  <note>At end of text: This is printed according to order.</note>
+                  <note>Annotation on Thomason copy: "June 25 1644".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb n="1" facs="tcp:155200:1" rendition="simple:additions"/>
+            <p>THE LAND-TEMPEST: OR, A PAPER-PELLET; Or, much in a Mouthfull; or, a long <hi>Anſwer</hi> To a ſhort <hi>Queſtion;</hi> Containing an <hi>Abſtract, Epitome,</hi> or <hi>Effects</hi> of the woes of theſe Wars.</p>
+            <p>By <hi>(W. P.)</hi> a plunder'd Preacher in the County of GLOUCESTER.</p>
+            <p>
+               <add>June 25 1644</add>
+            </p>
+            <q xml:lang="lat">Experta loquor.</q>
+            <q xml:lang="lat">Difficile eſt invenire, facile eſt addere inventis.</q>
+            <q xml:lang="lat">
+               <l>—Brevis eſſe laboro, Obſcurus fio.—</l>
+               <l>Obſcurus fio, Cur? ouia, tam brevis eſſe laboro.</l>
+            </q>
+            <q>
+               <l>Some words are hard in this to underſtand,</l>
+               <l>Becauſe I haſte with th'wars I have in hand.</l>
+            </q>
+            <q>
+               <p>No heart can think upon theſe things worthily; <hi>(for)</hi> it is a Tempeſt, which no man can ſee,</p>
+               <bibl>Ecclus. 16.20, 21.</bibl>
+            </q>
+            <q>
+               <p>Come, and let us caſt lots, that wee may know, for whoſe ſake this evill is come upon us,</p>
+               <bibl>Jon. 1.7.</bibl>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="tract_on_war">
+            <head>
+               <hi>Queſtion.</hi> What is War? <hi>Anſwer.</hi> It is a Tempeſt.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Y muſing on <hi>Jonah's</hi> Tempeſt on the ſea, we may take occaſion to meditate on our Tem<g ref="char:EOLhyphen"/>peſt on the land. Yet great dif<g ref="char:EOLhyphen"/>ference between that and our Tempeſt.</p>
+            <p>That was one-ſinner-following, one ſhip-indangering, a Little-wares-loſing, a few Mariners affrighting <hi>Tem.</hi>
+            </p>
+            <p>But this Tempeſt aſtoni<g ref="char:EOLhyphen"/>ſheth all our Land and Sea-Paſſengers, all our Sea Sailers,
+<pb n="2" facs="tcp:155200:2"/>
+               <hi>i.</hi> All our Parliament-Pilots, all the whole three kingdoms Inhabitants whatſoever.</p>
+            <p>That Tempeſt turned the cauſer into the belly of the Whale.</p>
+            <p>This will tumble the cauſers (without their converting) in<g ref="char:EOLhyphen"/>to the bottome of hell.</p>
+            <p>That is marvellous in our cars, this in our eyes.</p>
+            <p>That was great, grievous, hor<g ref="char:EOLhyphen"/>rid, hideous.</p>
+            <p>But this <hi>Tempeſt,</hi> one thou<g ref="char:EOLhyphen"/>ſand ſix hundred forty &amp; three, is a far greater <hi>Tempeſt,</hi> then ever yet we did ſee.</p>
+            <p>It is An All-Acts &amp; ſtatutes-ſtrict-ſifting <hi>Tempeſt.</hi>
+               <note place="margin">Lawvers ſearch all their books touching the <hi>Kings</hi> Preroga<g ref="char:EOLhyphen"/>tive &amp; the <hi>Parliaments</hi> priviledges</note>
+            </p>
+            <p>An Academick-altring <hi>Temp.</hi> changing an Act into artille<g ref="char:EOLhyphen"/>ry, arts into armes, pens into Pikes, Poſtils into Piſtols, Do<g ref="char:EOLhyphen"/>ctrines into Drums, Back-hoods into Buffe, ſquare-caps into round,<note place="margin">Head-pieces.</note> gowns into Guns, Gooſ<g ref="char:EOLhyphen"/>quils into Gauntlets, books in<g ref="char:EOLhyphen"/>to bullets.</p>
+            <p>It is an Artiſt over-arting, an armor-ſhining, an armes-for-ſeeking,<note place="margin">Half-Crowns.</note> 
+               <hi>i.</hi> a George on horſe-back-ſatisfying <hi>Temp.</hi>
+            </p>
+            <p>A Letters-for-looking,<note place="margin">Silver.</note> 
+               <hi>i.</hi> 2 Mint-letter-meaning <hi>Temp.</hi>
+            </p>
+            <p>It is a Beer-brewing, a Beer-broaching, a Beer-wanting, a Beer-waſting a Bread-begging, a Bed-abandoning, a Bullet-blow<g ref="char:EOLhyphen"/>ing, a Brain-beating, a Back-brui<g ref="char:EOLhyphen"/>ſing, a Bone-breaking, a Body-wounding, a blood-brewing, a Blood-thirſting, a Blood-ſhewing, a Blood-ſhedding a Blood-ſhowring, a Buil<g ref="char:EOLhyphen"/>ding-unbeautifying, a Beauti-blemiſhing, a Bulwark-rearing, a Breath-ſtopping <hi>Tem.</hi>
+            </p>
+            <p>It is an Eye-bedewing, an Eye-ſoring, an Eye-dazling, an Eye-dimming, an Eare-dulling, an Eare-deafning,<note place="margin">Ma<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> their <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> at the <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſing of <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ege <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> G<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> The <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>thon <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> pl<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> b<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> of S<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> D<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </note>an Hand-off-chopping <hi>Temp.</hi>
+            </p>
+            <p>It it an Ox-waiting, an Ox-wearying, an Ox-quick-draw<g ref="char:EOLhyphen"/>ing, an Ox-quite-away driving <hi>Tempeſt.</hi>
+            </p>
+            <p>It is an Horſe-hurrying, an Horſe-unhiring, an Horſe-houſing,<note place="margin">His O<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> drive <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> wa<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> L. <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> W<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> both <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Wa<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> ſhall b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pri<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> the P<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>mers <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> per<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </note>an Horſe-hiding, a Horſe-catching, a Horſ-ſtealing, a Horſe-killing <hi>Temp.</hi>
+            </p>
+            <p>It is a Carrier-croſſing, a Car<g ref="char:EOLhyphen"/>rier-ceaſing, a Carrier-crying, a Carrier-curſing, a Broad-Cloth-coveting, a Cloth-car<g ref="char:EOLhyphen"/>rying, a Cloth-renting, ano<g ref="char:EOLhyphen"/>ther mans-Cloth-wearing <hi>Tem.</hi>
+            </p>
+            <p>It is a Linnen-looking, a Lin<g ref="char:EOLhyphen"/>nen-loving, a Linnen loading,<note place="margin">10 p<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> ſhee <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>le<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> my <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> a Linnen-loſing, a Linnen-lack<g ref="char:EOLhyphen"/>ing.</p>
+            <p>A Clothiers-diſ-imploying, a Clothiers-diſtreſſing, a Clo<g ref="char:EOLhyphen"/>thiers-much-cruſhing, a Clo<g ref="char:EOLhyphen"/>thiers,
+<pb n="3" facs="tcp:155200:2"/>-attaching a Clothi<g ref="char:EOLhyphen"/>ers-out-hunting <hi>Tempeſt.</hi>
+            </p>
+            <p>It is a ſelfe-ſeeking, a ſelfe-ſoothing, a Neighbour-neglecting, a ſelfe-commen<g ref="char:EOLhyphen"/>ding, anotherman-cenſuring, another man-ſlighting, ano<g ref="char:EOLhyphen"/>ther man-condemning, A blind Buzzards-nothing ſee<g ref="char:EOLhyphen"/>ing,<note place="margin">Then men <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> croſſe <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Law <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Nature, <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ton, <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>aſon, and <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ligion.</note> a crooked-Canker-worm-crawling</p>
+            <p>A Weapon-weilding, a Thunder-bolt-darting, a Watchman-blinding, a way-man-blending, a Pilgrime-wandring <hi>Tempeſt.</hi>
+            </p>
+            <p>It is a Plaintifes-complai<g ref="char:EOLhyphen"/>ning, a Tide-turning, an At<g ref="char:EOLhyphen"/>turney-tormenting, a Term-unterming, a Criers-mouth-muzling, a Juſtice-out-juſt<g ref="char:EOLhyphen"/>ling, a Judge-diſrobing, a Ju<g ref="char:EOLhyphen"/>ry unpanneling <hi>Tempeſt.</hi>
+            </p>
+            <p>It is a Newes-enquiring, a Lie-broaching, a Day-ſtea<g ref="char:EOLhyphen"/>ling, a Theft-profeſſing, a Plunder-producing, a Plea<g ref="char:EOLhyphen"/>ſure-down-pulling, a Brow<g ref="char:EOLhyphen"/>niſt-bewraying, an omni<g ref="char:EOLhyphen"/>ſcious-ignorance-tub-out-teaching, a Jeſuit-projecting, a Projects-purſuing; a Secta<g ref="char:EOLhyphen"/>ries Sugar-ſweetning, a Pa<g ref="char:EOLhyphen"/>piſts embracing, a Pope-beſt-pleaſing <hi>Tempeſt.</hi>
+            </p>
+            <p>It is a Wiſe-mans be foo<g ref="char:EOLhyphen"/>ling, an After-wit-buying, a Wit-tenter-ſtretching, a Bo<g ref="char:EOLhyphen"/>dy and Mind-anatomizing, a Faſt-binding, a Few-friends-finding, a Feare-feeding, a Faith-wavering, a Conſci<g ref="char:EOLhyphen"/>ence-ſhipwracking <hi>Tempeſt.</hi>
+            </p>
+            <p>It is a Love-baniſhing, a Peace-forbidding, a Friend-parting, a Foe-raiſing, a beaſt-but chering, a Sheep-ſlaughte<g ref="char:EOLhyphen"/>ring, a Father-killing, a Chil<g ref="char:EOLhyphen"/>dren-howling <hi>Tempeſt.</hi>
+            </p>
+            <p>It is an Houſe-emptying, a Home-unhoming, a Head-hiding, a Head-cleaving, an Heart-aking, a hard-heart-relenting, a Flint-heart-ope<g ref="char:EOLhyphen"/>ning, an Earth-groaning, a Maker-provoking, a Sleeper-ſummoning, a Soule-dutie-ſlack ening, a Soul-ſadding <hi>Tempeſt.</hi>
+            </p>
+            <p>It is a Flock-ſcattering, a Church-unpeopling, a Sin<g ref="char:EOLhyphen"/>ner affrighting, a Sin-ſcour<g ref="char:EOLhyphen"/>ging, a Tear-trickling, a Truth-trying, a From-truth-ſtraying, a Downe-truth-treading, a Prayer-for-pray<g ref="char:EOLhyphen"/>ing,<note place="margin">10.1.6.</note> a Preacher-fearing,<note place="margin">When men ſay they are on the one ſide, when they are on the other.</note> a Text-wreſting, a Preacher-tongue-tying, a Tell-troth-tongue-clipping <hi>Tempeſt.</hi>
+            </p>
+            <pb n="2" facs="tcp:155200:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="3" facs="tcp:155200:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="4" facs="tcp:155200:4"/>
+            <p> It is a Clock-telling, a Print-employing, a Plate-melting,<note place="margin">I ſave up wa<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing at <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Bridge<g ref="char:EOLunhyphen"/>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>,</hi> the whoſe night, (where Pr. <hi>Rupert</hi> then quartered) and there had liberty to tell the houres of the night.</note> an All-metall-mol<g ref="char:EOLhyphen"/>ting, an Hypocrites unmask<g ref="char:EOLhyphen"/>ing, a Powder-plotting, an <note n="*" place="margin">Acts 27.14.</note> 
+               <hi>Euroclydontizing, i.</hi> a quiet-ſayling-oppoſing <hi>Tempeſt,</hi> a Ship-toſſing, a Ship-tearing, <hi>i.</hi> a State-ſtaggering, a Realm-reeling, a Religion-unliganding <hi>Tempeſt.</hi>
+            </p>
+            <p>It is a Jehovahs-great-won<g ref="char:EOLhyphen"/>ders-working-by <hi>Tempeſt,</hi> making the Land like <hi>Moſes</hi> Buſh, burning and yet not conſumed, turning mens In<g ref="char:EOLhyphen"/>ſides outward, fetching darkneſſe out of light for the preſent, and light out of darkneſſe for the future time; changing wine into water for preſent humiliati<g ref="char:EOLhyphen"/>on, and water into wine for future exultation.</p>
+            <p>It is a London-coin-lick<g ref="char:EOLhyphen"/>ing, a Leaden-hall unloading, a Blackwell-hall-mourning, a Lady-lap-leaving, a Lazie-bones-loving,<note place="margin">Such Soul<g ref="char:EOLhyphen"/>diers as folow toe Camp only for caſe, idleneſſe. pay, profit.</note> a Friend-fare-well not bidding, a Feather-plucking, <hi>i.</hi> a naked-bare-ma<g ref="char:EOLhyphen"/>king, a Faint-heart-comply<g ref="char:EOLhyphen"/>ing, a Flatterers-non-gain-ſaying <hi>Tempeſt.</hi>
+            </p>
+            <p>It is a well-known-un<g ref="char:EOLhyphen"/>knowing, <hi>i.</hi> a Familiar-eſtranging, an unwelcome-welcoming, a Four-quarters-quartering, a Pool-dragging,<note place="margin">My W<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> drawn <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and Pod<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> dragged a<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> raked, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> my <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>com g<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> to ſearch for braſs <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> pewter, which the<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> found, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> for plate, which I was <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> owner of</note> a Well-diving, a Water-drinking, a worſe-deſerving, a Protection-unprotecting, <hi>i.</hi> a promiſe-not-performing <hi>Tempeſt.</hi>
+            </p>
+            <p>It is a Leaders miſleading, a Day-darkening, a Night-enlightning, a Sun-clouding, a Moon-eclipſing, a Light-leſſening, a Darkneſſe-indu<g ref="char:EOLhyphen"/>cing, a danger-drawing, a Doubt-infolding, a Double-dealing, a Dearth-breeding, a Famine-forcing, a Death-deſiring, a Death-deſerving, a Death-bringing, a Death-worſting, <hi>i.</hi> a pain worſe then death cauſing <hi>Tempeſt.</hi>
+            </p>
+            <p>It is a Calm-ſhunning, a Cannon-roring, a City-quel<g ref="char:EOLhyphen"/>ling, a Croſs-coveting, a God-Dammee-wiſhing, <hi>i.</hi> a Curſe-for-calling <hi>Tempeſt.</hi>
+            </p>
+            <p>It is a Souldiers-ſword-ſelling, a Souldiers-ſolace-ſeeming, a Souldiers-certain ſorrowing, a Souldiers-ſiune more ſinfully-ſinful-ſhewing <hi>Tempeſt.</hi>
+            </p>
+            <p>It is a Captain-up-calling, Cowing, Conquering, a Co<g ref="char:EOLhyphen"/>lonell-conflicting, captiving, over-coming
+<pb n="5" facs="tcp:155200:4"/>a King-Caring, fearing, fret<g ref="char:EOLhyphen"/>ting-flying <hi>Tempeſt.</hi>
+            </p>
+            <p>It is a Biſhops-unhierar<g ref="char:EOLhyphen"/>ching, a Court-croſſing, a Countrey conſounding, a Harlot-haunting, a Wo-men-mourning, a Wife-ra<g ref="char:EOLhyphen"/>viſhing, a Widow-making, a Wo-working, a Wealth-waſting, a Harveſt-hindring, a Corn-conſuming <hi>Tempeſt.</hi>
+            </p>
+            <p>It is a Lawyers-labyrin<g ref="char:EOLhyphen"/>thing, a Schollers-unſchool<g ref="char:EOLhyphen"/>ing, a Land-lords-loſing, a Tenants-pooring, a Poore-famiſhing, a Plough-ſtaying, a Shop-ſhutting, a Tradeſ<g ref="char:EOLhyphen"/>mans-tyring, a Peer-apalling, a Parliament-puzling, a Pri<g ref="char:EOLhyphen"/>ſon-ſtuffing, a Patience-pro<g ref="char:EOLhyphen"/>ving <hi>Tempeſt.</hi>
+            </p>
+            <p>It is a People-pillaging, a Poor-ſpoyling, a Rich-rob<g ref="char:EOLhyphen"/>bing, a Robbery-rejoycing, an Oaths-out-ratling,<note place="margin">
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>aine <hi>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>ings,</hi> a <hi>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>after <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> a Sow<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> uſed <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>hleſs <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>nie in <gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ters <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lay a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <hi>Glou<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>.</hi> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>e bee <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ed <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Au<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap>,</note> an a<g ref="char:EOLhyphen"/>gainſt Round-heads all-rail<g ref="char:EOLhyphen"/>ling <hi>tempeſt.</hi>
+            </p>
+            <p>It is a Begger-boaſting, a Wilde-Boare-briſtling, a Rude, Reveling, Rovſting, Ruffling, Rifling, <hi>i.</hi> a Ruffian-by over-ruling, a Slave-by over-maſtring <hi>tempeſt.</hi>
+            </p>
+            <p>It is an All-Common-cau<g ref="char:EOLhyphen"/>ſing, an on-All-ſides Ru<g ref="char:EOLhyphen"/>ing, a Debt-denying, a Law<g ref="char:EOLhyphen"/>down-laying, a Countrey-counſell-down-crying, a Na<g ref="char:EOLhyphen"/>tion-nulling, a Non-like-noy-ſing, a No-bound-limiting, a No-perſon-ſparing, a Non-ſuch-looked-for, an Antipo<g ref="char:EOLhyphen"/>des-walking,<note place="margin">When the one Army at the ſiege mined, and the other counter<g ref="char:EOLhyphen"/>mined.</note> 
+               <hi>i.</hi> an under-ground-working; a Liberty-reſtraining, a Ship money-ſurpaſſing, an in Payments-all-away-paying, an Un-civill-civill-unnaturalizing <hi>tempeſt.</hi>
+            </p>
+            <p>It is a Laodicean like-luke-warming, a Profeſſor-key-colding, a Holineſs-hooding, a Way-laying, a Hatred-hat<g ref="char:EOLhyphen"/>ching, a Miſchief-watching, a Malice-manifeſting, a Miſe<g ref="char:EOLhyphen"/>ry-multiplying, a Mony-for-mining, a Member-maiming, a Manners-infecting, a Mercy-loathing, a Mirth-menacing, a Maid-deflowring, a Market-marring, a Mariners-ama-zing, a Miniſter-mocking, Miſ-uſing, Moving, a Men-dog-like-driving, a Men-mad<g ref="char:EOLhyphen"/>ding, a Men-mowing, <hi>i.</hi> a Men-murthering <hi>tempeſt.</hi>
+            </p>
+            <p>It is an After-times recor<g ref="char:EOLhyphen"/>ding, an Actors-name-eterni<g ref="char:EOLhyphen"/>zing, a Weather-cock-like-winding, <hi>i.</hi> a Turn-coat-diſ<g ref="char:EOLhyphen"/>covering, a Topſie-turvie-things-turning, a Publike-Poſt-fixing,
+<pb n="6" facs="tcp:155200:5"/>
+               <hi>i.</hi> a Proditors-proclaiming <hi>tempeſt.</hi>
+            </p>
+            <p>It is a Wild-fire-ſpetting, a Bloody-minded-ſporting, a Right-expelling, a Wrong-compelling, a Revenge-re<g ref="char:EOLhyphen"/>newing, a Rapine-unregar<g ref="char:EOLhyphen"/>ding, a Reaſon-rejecting, a Reſt-refuſing, <hi>i.</hi> a ſleep-not-ſuffering, a Refuge-conceal<g ref="char:EOLhyphen"/>ing, a Rock-rending, a Rod-reaching, a Sword-unſhea<g ref="char:EOLhyphen"/>thing <hi>tempeſt.</hi>
+            </p>
+            <p>It is a Shepheard and Sheep, an Husband and Wife, an Head and Mem<g ref="char:EOLhyphen"/>bers, <hi>i.</hi> a Prince, and People-dividing <hi>tempeſt.</hi>
+            </p>
+            <p>It is a malignantizing, <hi>i.</hi> an All-malignants-making <hi>tem<g ref="char:EOLhyphen"/>peſt.</hi>
+            </p>
+            <p>It is a Land-ſhaking, a King-dome-quaking, a Grief-laſt<g ref="char:EOLhyphen"/>ing, a Gold-gaping, a Grave-filling, a Goſpel-gagging, a God-grieving, a Devill-de<g ref="char:EOLhyphen"/>lighting, a Diſeaſes-procu<g ref="char:EOLhyphen"/>ring, a Death-bell-tolling, an Alarum-to Judgement-ring<g ref="char:EOLhyphen"/>ing <hi>tempeſt.</hi>
+            </p>
+            <p>It is a Forainers-mouth-watering, a Welch-mens-cauſe-weeeping,<note place="margin">The <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> teſt p<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> the G<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſon at <hi>Hei<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                  </hi> nigh <hi>G<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ceſter,</hi> t<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> by Sir <hi>W<gap reason="illegible" extent="6 letters">
+                        <desc>••••••</desc>
+                     </gap> Waller,</hi> were Welſter</note> an Irelands-weakning, a Scotlands-warn<g ref="char:EOLhyphen"/>ning, a New-Englands-con<g ref="char:EOLhyphen"/>doling, an Old-Englands-de-ſtroying, an Heaven-daring, an Hel-haſtening, a Thunder-out-ſounding, a Tongue-un<g ref="char:EOLhyphen"/>utterable, a Pen-inexpreſs<g ref="char:EOLhyphen"/>able, an All-the worlds-won-dering, an All-former-unpa<g ref="char:EOLhyphen"/>ralleling, <hi>i.</hi> an <hi>All-Tempeſt</hi>-exceeding-<hi>Tempeſt.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <opener>
+               <salute>Lector,</salute> Tu, ſi quid noviſti rectius iſtis, Candidus imperti, ſi non, his utere mecum.</opener>
+            <l>King Reader, if thou know'ſt,</l>
+            <l>How better to expreſſe,</l>
+            <l>Theſe preſent woes of wars,</l>
+            <l>In Proſe, or elſe in verſe;</l>
+            <l>Then ſhew thy wit and will,</l>
+            <l>Reveal the ſame to mee;</l>
+            <l>If that thou wilt not do,</l>
+            <l>Then like this help to thee.</l>
+            <l>Know that the truth of moſt,</l>
+            <l>In this Pellet-Paper,</l>
+            <l>Is knowingly known,</l>
+            <l>To this preſent Relater.</l>
+         </div>
+         <div type="epigraph">
+            <pb n="7" facs="tcp:155200:5"/>
+            <q>
+               <bibl>Ob.</bibl> WOrds are but wind.</q>
+            <q>
+               <bibl>Sol.</bibl> But this is ſuch a tempeſtuous wind that hath overturned many trees, turrets, towers, walls, houſes, men and beaſts; and yet it rageth ſtill.</q>
+            <q>
+               <bibl>Jon. 1.</bibl> No man knowing when the calme will be.</q>
+            <q>
+               <bibl>Verſ. 13.</bibl>The Marriners have rowed hard to bring the Ship to land, but it cannot be: for the Sea worketh, and is tempeſtuous againſt them.</q>
+            <q>
+               <bibl>Verſ. 5.</bibl> The greateſt part of the wares in the Ship are caſt into the Sea, to lighten the Ship; but this tempeſt is ſo mighty ſtill, that the ſhip is like to be broken.</q>
+            <q>
+               <bibl>Verſ. 12.</bibl> 
+               <p>VVee know, that for ſome <hi>Jonah's</hi> ſake, this tempeſt is ſtill upon us; O Lord think on us, that we periſh not.</p>
+               <p>O that the many <hi>Jonah's</hi> of Ignorance, Atheiſme, pro<g ref="char:EOLhyphen"/>phaneneſs, Popery, Faction, Neutrality, Ambodexteriſme, were commanded to be caſt over-board, that the calm might be as great as is yet the ſtorm.</p>
+            </q>
+            <q>
+               <bibl>Mat. 8.16.</bibl>That all men, in ſigne of thankfulneſs, might learn to know, feare, love, and ſerve that Man-God, whom winds and waves, men and devils, heaven and earth do obey.</q>
+            <epigraph>
+               <q>
+                  <bibl>Verſ. 26.</bibl> 
+                  <hi>Surge Domine, Impera Ventis &amp; Mari; Talem Tranquillitatem Da, Domine.</hi> Amen.</q>
+            </epigraph>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>This is Printed according to Order.</p>
+         </div>
+         <div type="colophon">
+            <p>Printed for <hi>Nicholas Vavoſour,</hi> and are to be ſold at his Shop in the Inner Temple, 1644.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
